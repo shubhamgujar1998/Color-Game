@@ -1,4 +1,4 @@
-Color Game 
+# Color Game 
 A guessing color game application which is based on RGB colors selection with two levels (Easy and Hard). 
 Technologies used: HTML5, CSS, JS, jQuery
 
